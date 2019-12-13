@@ -39,7 +39,7 @@ This section is encrypted using a rot13 caesar cipher:
 ```
 uggcf://gvalhey.pbz/ll97ihdq
 ```
-Once decrypted this section reads:
+Once decrypted, this section reads:
 ```
 https://tinyurl.com/yy97vuqd
 ```
