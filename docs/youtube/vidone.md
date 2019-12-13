@@ -3,10 +3,11 @@ title: Video 1
 layout: default
 permalink: /youtube/video-one
 parent: YouTube
+nav_order: 1
 authors: ['exvacuum']
 ---
 
-# Video 1:
+# Video 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPlq4wbL0AM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Title
