@@ -22,8 +22,8 @@ title: CPPARG Knowledge Base
 email: bartsila533@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is designed to serve as a repository for the knowledge gained by the community in regards to the Capital Place Pizza ARG.
-baseurl: "" # the subpath of your site, e.g. /capital-place-pizza
-url: "" # the base hostname & protocol for your site, e.g. http://exvacuum.dev
+baseurl: "/capital-place-pizza" # the subpath of your site, e.g. /blog
+url: "https://exvacuum.dev" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "logo.png"
 twitter_username: jekyllrb
 github_username:  exvacuum
