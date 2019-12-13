@@ -29,7 +29,6 @@ twitter_username: jekyllrb
 github_username:  exvacuum
 
 # Build settings
-theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
