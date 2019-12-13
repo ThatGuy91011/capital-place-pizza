@@ -4,6 +4,7 @@
 title: "Home"
 permalink: /
 layout: default
+authors: ['exvacuum']
 ---
 
 # Capital Place Pizza ARG Knowledge Base

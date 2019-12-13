@@ -92,6 +92,29 @@ layout: table_wrappers
             </footer>
           {% endif %}
 
+            <!-- Authors -->
+            {% if page.authors %}
+            <hr>
+            <nav class="breadcrumb-nav">
+
+              <ol class="breadcrumb-nav-list">
+                <li class="breadcrumb-nav-list-item">
+                  Contributors:
+                  {% for author_name in page.authors %}
+                    {% assign author = site.data.contributors[author_name] %}
+                    <a href="https://github.com/{{ author.github }}">{{ author.name }}</a>&nbsp;
+                    {% if author.isAdmin %}
+                      :key:
+                    {% endif %}
+                  {% endfor %}
+                   <a href="https://github.com/ExVacuum/capital-place-pizza">View and Contribute on GitHub</a>
+                </li>
+
+              </ol>
+
+            </nav>
+            {% endif %}
+
         </div>
       </div>
     </div>
