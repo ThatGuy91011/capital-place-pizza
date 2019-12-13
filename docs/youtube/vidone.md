@@ -11,7 +11,7 @@ authors: ['exvacuum']
 
 ## Title
 ### Once upon a time, there was a place of golden mountains and strawberry clouds.
----
+
 ## Description
 ```
 Can anyone please introduce the alpha-line, per line, always cued excitedly?
@@ -26,3 +26,18 @@ the sound will help with the view.
 •
 "Tkin tse-nill toish-jeh klesh ne-ahs-jah nash-doie-tso no-da-ih than-zie ah-nah dibeh-yazzie tsah-as-zih dibeh-yazzie a-kha a-keh-di-glini dzeh a-chi than-zie gloe-ih cha dzeh tsah tsah-as-zih ne-ahs-jah no-da-ih jeha no-da-ih tsah-as-zih klesh jeha a-chi a-keh-di-glini ah-nah dibeh-yazzie tlo-chin a-keh-di-glini dzeh than-zie a-kha dzeh gah yeh-hes klizzie-yazzie."
 ```
+
+## Video Content
+
+### Main Typography
+
+The large text that appears throughout this video reads as follows:
+```
+They go, I sooth, and we flow
+And make no sound, here or there
+Not noticed, but I walk right through
+Here or there, can you feel me?
+```
+These are mismatched lyrics from the Two O'Clock Twilight song: "Can You Feel  Me".
+<iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_994056?widget_id=55&pwc[song_ids]=7610591&context_type=song&pwc[size]=small&pwc[color]=light" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+At this point in time, the signifigance of the mismatching is unknown, and we are working under the assumption that it is mainly to discourage exact-match searching.
