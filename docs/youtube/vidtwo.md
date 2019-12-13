@@ -57,6 +57,8 @@ W E D O N T K N O W I F H E W A S H E R E T O T O W I T B E C A U S E O F A P A 
 Multiple times throughout the video, [this link](https://fox59.com/2017/11/13/investigators-believe-murder) flashes briefly on screen.
 This brings one to a Fox 59 article about the murder of Steve Deputy, written a day after the previous.
 
+---
+
 ### Coordinates
 Throughout the video, the following coordinates are made visible:
 ```
