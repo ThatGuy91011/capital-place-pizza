@@ -12,6 +12,6 @@ authors: ['exvacuum']
 <br>
 **Figure A: The Channel Profile Picture**
 
-On october 30, 2019, the YouTube channel [JohnDough](https://www.youtube.com/channel/UC0Ebq-NNBboBxy1fRrRj2cA) was created.
+On October 30, 2019, the YouTube channel [JohnDough](https://www.youtube.com/channel/UC0Ebq-NNBboBxy1fRrRj2cA) was created.
 
 [Channel Profile Picture]: ../assets/img/unnamed.jpg
