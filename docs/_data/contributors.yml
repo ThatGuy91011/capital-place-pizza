@@ -2,3 +2,8 @@ exvacuum:
   name: Silas Bartha
   github: ExVacuum
   isAdmin: true
+  
+exvacuum: Just some guy
+  name: Kirk Walls
+  github: ThatGuy91011
+  isAdmin: true
