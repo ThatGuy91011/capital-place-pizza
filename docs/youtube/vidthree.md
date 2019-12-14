@@ -65,5 +65,5 @@ Throughout the video, the following distortion appears:
 <br>
 ![](../assets/img/vidthreebrokenurl.png)
 <br>
-Reading the text right to left yields a rot13-encrypted URL, which once decrypted leads to the following PDF:
+Reading the text left to right yields a rot13-encrypted URL, which once decrypted leads to the following PDF:
 <iframe src="../assets/interpersonal_violence_and_illicit_drug_use.pdf" width="100%" height="500px"></iframe><br><br>
